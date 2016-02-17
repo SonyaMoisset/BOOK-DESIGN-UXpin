@@ -17,3 +17,7 @@ Learning Design with 'UXpin' Series
 - Finished The Guide to Wireframing | Introduction
 - Finished The Guide to Wireframing | A Practical Look at Using Wireframing
 - Finished The Guide to Wireframing | 50 Shades of Wireframes
+
+##### 17/02/2016
+- Finished The Guide to Wireframing | 4 Non-Digital Wireframing Weapons
+- Finished The Guide to Wireframing | 4 Digital Wireframing Weapons
