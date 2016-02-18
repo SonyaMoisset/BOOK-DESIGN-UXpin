@@ -21,3 +21,6 @@ Learning Design with 'UXpin' Series
 ##### 17/02/2016
 - Finished The Guide to Wireframing | 4 Non-Digital Wireframing Weapons
 - Finished The Guide to Wireframing | 4 Digital Wireframing Weapons
+
+##### 18/02/2016
+- Finished The Guide to Wireframing | The Design Pattern & Wireframe Libraries Guide
