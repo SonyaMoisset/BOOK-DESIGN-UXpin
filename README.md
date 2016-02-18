@@ -24,3 +24,4 @@ Learning Design with 'UXpin' Series
 
 ##### 18/02/2016
 - Finished The Guide to Wireframing | The Design Pattern & Wireframe Libraries Guide
+- Finished The Guide to Wireframing | Fresh UI Design Patterns
