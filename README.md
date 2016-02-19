@@ -37,3 +37,4 @@ Learning Design with 'UXpin' Series
 ##### 19/02/2016
 - Finished The Guide to Wireframing | Design Principles for Wireframing
 - Finished The Guide to Wireframing
+- Finished UX Design for Startups | The Age of User Experience Design
