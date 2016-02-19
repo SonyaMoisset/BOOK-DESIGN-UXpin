@@ -12,6 +12,14 @@ Learning Design with 'UXpin' Series
 - Design Principles for Wireframing
 - About UXPIN
 
+### 2. UX Design for Startups
+- The Age of User Experience Design
+- Get to Know Your Users
+- Efficient Design Techniques
+- Growth and Design Hacking
+- Get It Optimised
+- Tools, Tools, Tools
+
 #### Updates
 ##### 16/02/2016
 - Finished The Guide to Wireframing | Introduction
@@ -25,3 +33,7 @@ Learning Design with 'UXpin' Series
 ##### 18/02/2016
 - Finished The Guide to Wireframing | The Design Pattern & Wireframe Libraries Guide
 - Finished The Guide to Wireframing | Fresh UI Design Patterns
+
+##### 19/02/2016
+- Finished The Guide to Wireframing | Design Principles for Wireframing
+- Finished The Guide to Wireframing
