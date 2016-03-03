@@ -43,3 +43,6 @@ Learning Design with 'UXpin' Series
 - Finished UX Design for Startups | Get to Know Your Users
 - Finished UX Design for Startups | Efficient Design Techniques
 - Finished UX Design for Startups | Growth and Design Hacking
+
+##### 03/03/2016
+- Finished UX Design for Startups | Get It Optimised
