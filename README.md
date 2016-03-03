@@ -46,3 +46,4 @@ Learning Design with 'UXpin' Series
 
 ##### 03/03/2016
 - Finished UX Design for Startups | Get It Optimised
+- Finished UX Design for Startups | Tools, Tools, Tools
