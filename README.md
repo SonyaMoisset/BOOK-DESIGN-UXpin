@@ -20,6 +20,9 @@ Learning Design with 'UXpin' Series
 - Get It Optimised
 - Tools, Tools, Tools
 
+### 3. Web Design Book Of Trends 2013-2014
+
+
 #### Updates
 ##### 16/02/2016
 - Finished The Guide to Wireframing | Introduction
@@ -47,3 +50,7 @@ Learning Design with 'UXpin' Series
 ##### 03/03/2016
 - Finished UX Design for Startups | Get It Optimised
 - Finished UX Design for Startups | Tools, Tools, Tools
+- Finished UX Design for Startups
+
+##### 04/03/2016
+- Finished Web Design Book Of Trends 2013-2014
