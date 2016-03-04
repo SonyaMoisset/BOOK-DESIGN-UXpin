@@ -66,3 +66,4 @@ Learning Design with 'UXpin' Series
 - Finished Web Design Book Of Trends 2013-2014
 - Finished The User Experience Guide Book For Product Manager | The Rise of Product Management
 - Finished The User Experience Guide Book For Product Manager | Product Managers in the Age of User Experience Design
+- Finished The User Experience Guide Book For Product Manager | Product Manager and UX Designer - What's the Difference?
